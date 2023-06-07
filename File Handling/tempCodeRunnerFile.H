@@ -1,0 +1,1 @@
+pf("Address : %s ",s.adrs);

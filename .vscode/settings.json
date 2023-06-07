@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "PASS_HASH.H": "cpp",
+        "stdio.h": "c"
+    }
+}
